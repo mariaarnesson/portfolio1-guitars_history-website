@@ -307,7 +307,7 @@ input[type="submit"]:focus {
 /* For medium screen sizes from 800px wide and down */
 @media screen and (max-width: 800px) {
     body {
-        height: 1500px;
+        height: 5em;
     }
     nav {
         text-align: center;
