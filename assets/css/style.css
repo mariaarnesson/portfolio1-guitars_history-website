@@ -355,3 +355,188 @@ input[type="submit"]:focus {
              padding: 50px;
     }
 }
+@media screen and (max-width: 600px) {
+    body {
+        padding-bottom: inherit;
+        margin: 30px;
+    }
+    nav {
+        text-align:left;
+        align-items: flex-start;
+        padding: 0;
+        margin: 0;
+        display: grid;
+        
+      }
+      nav > a {
+             border-bottom: 1px solid;
+             border-top: 1px solid;
+             border-right: 1px solid;
+      }
+      #start {
+             width: fit-content;
+             height: 150px;
+      }
+      #welcome {
+            margin: 0px;
+            width: 100%;
+        }
+     .first-pic {
+            float: none;
+            margin-right: 40px;
+            margin-left: 35px;
+            width: 250px;
+            height: 150px;
+        }
+       
+    #box {
+         margin: 55px;
+         width: 200px;
+    }
+    #types_of_guitar {
+                     margin: 0px;
+    }
+    .acoustic-guitar {
+                    margin: 0px;
+    }
+    .electric-guitar {
+                    margin: 0px;
+    }
+    .classical-guitar {
+                   margin: 0px;
+    }
+    .jazz-guitar {
+                  margin: 0px;
+    }
+    #timeline {
+              margin: 50px;
+              width: 200px;
+    }
+    #comment {
+            text-align: justify;
+            margin: 5px;
+        }
+    .login-box {
+               width: 300px;
+               height: 300px;
+    }
+    .picture_2 {
+            margin-left: 52px;
+            float: none;
+    }
+    img {
+        width: 200px;
+        height: 100px;
+        border: 2px solid;
+    }
+    #gallery {
+            display: inline-block;
+            margin: 50px;
+    }  
+    .technically {
+            margin-top: 300px;
+            margin-right: 60px;
+     }
+}
+/* For small screen sizes below 320px width */
+@media screen and (max-width: 320px) {
+    body {
+         text-align: right;
+         margin: 0;
+         min-height: 100vh;
+    }
+    nav {
+        text-align: left;
+        align-items: flex-start;
+        padding: 0;
+        margin: 0;
+        display: grid;
+    }  
+    nav > a {
+        border-bottom: 1px solid;
+        border-top: 1px solid;
+        border-right: 1px solid;
+    }
+    #welcome {
+         margin: 5px;
+    }
+    #start {
+       margin-left: -40px;
+       height: 150px;
+       display: flex;
+    }
+    .first-pic {
+           margin-left: 0px;
+           width: 200px;
+    }
+    .column {
+        margin-left: 53px;
+        margin-top: 53px;
+    }
+    #box {
+         margin: 30px;
+         width: 200px;
+         display: contents;
+    }
+    #types_of_guitar {
+                 margin: 0px;
+    }
+    .acoustic-guitar {
+                text-align: justify;
+                display: block;
+                margin: 0px;
+    }
+    .electric-guitar{
+                text-align: center;
+                display: block;
+                margin: 0px;
+    }
+    .classical-guitar {
+                 text-align: center;
+                 display: block;
+                 margin: 0px;
+    }
+    .jazz-guitar {
+            text-align: center;
+            display: block;
+            margin: 0px;
+    }
+    #quotes {
+       margin: 0;
+    }
+    .picture_2 {
+          margin: 30px;
+          width: 200px;
+    }
+    #gallery {
+        margin: 30px;
+        width: 200px;
+    }
+    img {
+       width: 50px;
+       height: 25px;
+       border: 2px solid; 
+   }
+   .pic {
+       margin: 0;
+       width: 200px;
+   }
+   #timeline {
+         margin: 30px;
+         width: 200px;
+   }
+   #types_of_guitar {
+               margin: 0px;
+   }
+    #comment {
+         margin: 0px;
+    }
+    .login-box {
+          width: 270px;
+          height: 300px;
+    }
+    #social-networks i {
+                 font-size: 100%;
+                 height: 50px;
+    }
+}
