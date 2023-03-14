@@ -43,3 +43,62 @@ h2 {
     text-align: center;
     letter-spacing: 0px;
 }
+
+#start {
+    height: 500px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    width: 100%;
+}
+.first-pic {
+        float: none;
+        margin-right: 200px;
+        margin-left: 80px;
+}
+
+/* first paragraph index */
+
+#welcome {
+ text-align: center;
+ display: block;
+ margin: 150px;
+}
+
+/* photos index */
+
+#box {
+ margin: 135px;
+ display: block;
+}
+
+/* social networks */
+
+footer {
+    float: inline-end;
+    position: absolute;
+    height: 160px;
+    width: 100%;
+    border-top: 1px solid #cdcdcd;
+    display: block;
+    left: 0; 
+}
+
+#social-networks {
+              margin-top: 200px;
+              margin-bottom: 0px;
+              text-align: center;
+              height: 130px;
+              background-color: #3a3a3a;
+}
+#social-networks i {
+                font-size: 160%;
+                margin: 1%;
+                padding: 5%;
+                color: beige;
+}
+#social-networks > div {
+                   display: inline;
+                   color: #a69c95;
+                   text-align: center; 
+}
