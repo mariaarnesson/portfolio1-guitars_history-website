@@ -44,3 +44,8 @@ The site will be useful for people who want to get acquainted with the history o
     - After the page loads, a picture of a man with a guitar is shown as the main picture that introduces the text about the history of guitars.    
 
     ![Home page](assets/images/home_page.png)
+
+- Introduction text
+    - Scrolling down a few words from the author is introducing and setting out what the website is presenting and the general history is being told.
+
+    ![Introduction text](assets/images/introduction_text.png)
