@@ -81,3 +81,8 @@ The site will be useful for people who want to get acquainted with the history o
 
     ![timeline1](assets/images/timeline_part1.png)
     ![timeline2](assets/images/timeline_part2.png)
+
+- Contact Page 
+    - On the contact page, the user has the opportunity to fill out a form to leave a comment on the site and to consent to the sending of information by e-mail.
+    ![contact](assets/images/contact.png)
+
