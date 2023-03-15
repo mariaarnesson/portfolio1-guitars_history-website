@@ -28,3 +28,8 @@ The site will be useful for people who want to get acquainted with the history o
     - as a returning user I want to be able to quickly and easily check what kinds of guitars exists.
     - as a returning user I want to be able to contact the organization to give feedback or ask questions.
     - as a returning user I want to check the history and date in case I have forgotten it.
+
+
+# Features
+## Existing Features
+- Navigation bar
