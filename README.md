@@ -86,3 +86,9 @@ The site will be useful for people who want to get acquainted with the history o
     - On the contact page, the user has the opportunity to fill out a form to leave a comment on the site and to consent to the sending of information by e-mail.
     ![contact](assets/images/contact.png)
 
+## Features Left to Implement
+- video supporting the facts
+
+
+# Design
+## Wireframe: 
