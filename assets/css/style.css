@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&family=PT+Sans+Narrow&display=swap');
+
 
 body {
     background-position: 0in;
-    font-family: 'Caveat', Courier, monospace, sans-serif;
+    font-family: 'Courier' sans-serif;
     background-color: #ede4df8f;
     overflow: scroll;
     word-wrap: break-word;
@@ -38,7 +39,7 @@ h1 {
 
 h2 {
     color:currentcolor;
-    font-family: Caveat, sans-serif;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
     text-align: center;
     letter-spacing: 0px;
 }
