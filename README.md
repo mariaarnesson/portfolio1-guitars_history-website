@@ -62,3 +62,9 @@ The site will be useful for people who want to get acquainted with the history o
     - The background of the footer is slightly darker to show the contrast between the icons in a distinctive way.
 
     ![Footer](assets/images/footer.png)
+
+- Types of guitars
+    - Types of guitars page gives a list of four most popular types of guitars. There is described which country the guitars come from, what types of music they belong to and in what dates they were created.
+
+    ![Types of guitars 1](assets/images/types_of_guitars_part1.png)
+    ![Types of guitars 2](assets/images/types_of_guitars_part2.png)
