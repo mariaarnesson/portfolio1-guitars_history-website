@@ -49,3 +49,9 @@ The site will be useful for people who want to get acquainted with the history o
     - Scrolling down a few words from the author is introducing and setting out what the website is presenting and the general history is being told.
 
     ![Introduction text](assets/images/introduction_text.png)
+
+- Home Page Guitars Photos
+    - The next part of the main page shows four photos of guitars nicely arranged in a quadrangle, on the smaller screen the photos are arranged one above the other.
+
+    ![Home page guitar photos](assets/images/home_page_guitar_photos.png)
+    ![Home page guitar photos small screen](assets/images/home_page_guitar_photos_mobile.png)
