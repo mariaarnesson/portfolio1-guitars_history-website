@@ -55,3 +55,10 @@ The site will be useful for people who want to get acquainted with the history o
 
     ![Home page guitar photos](assets/images/home_page_guitar_photos.png)
     ![Home page guitar photos small screen](assets/images/home_page_guitar_photos_mobile.png)
+
+- Footer
+    - In the footer there are four icons showing links to four different platforms such as: facebook, instagram, twitter, pinterest. Thanks to these platforms, the user can be updated and check information about the history of guitars.
+
+    - The background of the footer is slightly darker to show the contrast between the icons in a distinctive way.
+
+    ![Footer](assets/images/footer.png)
