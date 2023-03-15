@@ -73,3 +73,11 @@ The site will be useful for people who want to get acquainted with the history o
     - On the gallery page there is a quote where the famous guitarist Jimi Hendrix talks about playing the guitar. Next to it is a photo of the guitarist, and underneath eight more photos with guitars.
 
     ![gallery](assets/images/gallery.png)
+
+- Timeline Page
+    - At the top of the timeline page is the main photo. Below is a timeline where events and dates related to guitars around the world are described chronologically.
+    - Dates and event titles are written in bold type.
+    - The timeline is composed in green shades and each event is marked with a circle to easily and clearly distinguish subsequent events from each other.
+
+    ![timeline1](assets/images/timeline_part1.png)
+    ![timeline2](assets/images/timeline_part2.png)
