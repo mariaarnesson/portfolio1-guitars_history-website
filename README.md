@@ -68,3 +68,8 @@ The site will be useful for people who want to get acquainted with the history o
 
     ![Types of guitars 1](assets/images/types_of_guitars_part1.png)
     ![Types of guitars 2](assets/images/types_of_guitars_part2.png)
+
+- Gallery Page
+    - On the gallery page there is a quote where the famous guitarist Jimi Hendrix talks about playing the guitar. Next to it is a photo of the guitarist, and underneath eight more photos with guitars.
+
+    ![gallery](assets/images/gallery.png)
