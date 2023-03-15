@@ -469,8 +469,8 @@ input[type="submit"]:focus {
            width: 200px;
     }
     .column {
-        margin-left: 53px;
-        margin-top: 53px;
+            margin: 25px;
+            margin-top: 37px;
     }
     #box {
          margin: 30px;
