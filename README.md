@@ -22,3 +22,9 @@ The site will be useful for people who want to get acquainted with the history o
     - as a new user I want to be able to easily navigate to and see what types of guitars are available.
     - as a new user I want to be able to see images in the gallery.
     - as a new user I want to be able to fill out the form to receive newsletters on my e-mail.
+
+- Returning visitor goals:
+    - as a returning user I want to be able to access and view the entire page quickly and easily.
+    - as a returning user I want to be able to quickly and easily check what kinds of guitars exists.
+    - as a returning user I want to be able to contact the organization to give feedback or ask questions.
+    - as a returning user I want to check the history and date in case I have forgotten it.
