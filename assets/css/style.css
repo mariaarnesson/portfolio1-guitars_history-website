@@ -539,8 +539,3 @@ input[type="submit"]:focus {
                  height: 50px;
     }
 }
-@media screen and (min-width: 500px) {
-    #box {
-        padding: 50px;
-    }
-}
