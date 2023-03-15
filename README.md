@@ -33,3 +33,4 @@ The site will be useful for people who want to get acquainted with the history o
 # Features
 ## Existing Features
 - Navigation bar
+    - The navigation bar is easy to read and looks pleasent. Featured on all five pages. the full responsive navigation bar includes links to the Home page, Type of guitars, Gallery, Timeline, and Contact page and is identical in each page to allow for easy navigation.On mobile screens, the sites are next to each other and on the iPod screen, the sites in the navigation bar are covered by a button.  All menu elements are highlighted on hover. The navigation bar will allow the user to easily navigate from page to page on all devices without returning to the previous page using the "Back" button.
