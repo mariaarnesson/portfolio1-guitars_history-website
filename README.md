@@ -12,4 +12,13 @@ The site will be useful for people who want to get acquainted with the history o
 
 # Table of content
 
-#
+# User Experience (UX)
+
+## Site owner's goal:
+- First time visitor goals:
+    - as a new user I want to find information and learn more about the history.
+    - as a new user I want to easily understand the main purpose of the site.
+    - as a new user I want to be able to easily navigate the entire site to find content.
+    - as a new user I want to be able to easily navigate to and see what types of guitars are available.
+    - as a new user I want to be able to see images in the gallery.
+    - as a new user I want to be able to fill out the form to receive newsletters on my e-mail.
