@@ -12,6 +12,15 @@ The site will be useful for people who want to get acquainted with the history o
 
 # Table of content
 
+- [User Experience (UX)](#user-experience-ux)
+    - [Site owner's goal](#site-owners-goal)
+- [Features](#features)
+    - [Existing Features](#existing-features)
+    - [Features Left to Implement](#features-left-to-implement)
+- [Design](#design)
+    - [Wireframe](#wireframe)
+    - [Colour Adobe](#colour-adobe)
+
 # User Experience (UX)
 
 ## Site owner's goal:
