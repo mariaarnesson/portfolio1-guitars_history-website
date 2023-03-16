@@ -178,3 +178,20 @@ No errors were found when passing through the official (Jigsaw) validator
 ## Testing Lighthouse
 
 ![lighthouse desktop](assets/images/lighthouse_desktop.png)
+
+# Deployment:
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+    - In the GitHub repository, navigated to the Settings tab.
+    - From the tab in the left hand side sidebar, select Pages.
+    - Afrerword select main under branch. 
+    - Click the save button.
+    - The page had updated. 
+    - The live link can be found here - https://mariaarnesson.github.io/portfolio1-guitars_history-website/
+
+
+
+# Technologies Used
+## Languages Used
+- [HTML](https://sv.wikipedia.org/wiki/HTML)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+
