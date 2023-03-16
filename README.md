@@ -92,3 +92,18 @@ The site will be useful for people who want to get acquainted with the history o
 
 # Design
 ## Wireframe: 
+- Wireframe Desktop:
+    - Home Page
+    ![Wireframe home page desktop](assets/images/wireframe_home_page_desktop.png)
+
+    - Types of Guitars
+    ![Wireframe types desktop](assets/images/wireframe_types_desktop.png)
+
+    - Gallery Page
+    ![Wireframe gallery desktop](assets/images/wireframe_gallery_desktop.png)
+
+    - Timeline Page
+    ![Wireframe timeline desktop](assets/images/wireframe_timeline_desktop.png)
+
+    - Contact Page
+    ![Wireframe contact desktop](assets/images/wireframe_contact_desktop.png)
