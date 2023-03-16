@@ -116,7 +116,7 @@ The site will be useful for people who want to get acquainted with the history o
     ![Wireframe types desktop](assets/images/wireframe_type_ipad.png)
 
     - Gallery Page
-    ![Wireframe gallery desktop](assets/images/wireframe_gallery_ipad.png)
+    ![Wireframe gallery desktop](assets/images/wireframe_contact_ipad.png)
 
     - Timeline Page
     ![Wireframe timeline desktop](assets/images/wireframe_timeline_ipad.png)
@@ -124,4 +124,18 @@ The site will be useful for people who want to get acquainted with the history o
     - Contact Page
     ![Wireframe contact desktop](assets/images/wireframe_contact_ipad.png)
 
-- Wireframe iPhone    
+- Wireframe iPhone   
+
+   ![Wireframe home page desktop](assets/images/wireframe_home_iphone.png)
+
+    - Types of Guitars
+    ![Wireframe types desktop](assets/images/wireframe_types_iphone.png)
+
+    - Gallery Page
+    ![Wireframe gallery desktop](assets/images/wireframes_gallery_iphone.png)
+
+    - Timeline Page
+    ![Wireframe timeline desktop](assets/images/wireframe_timeline_ipad.png)
+
+    - Contact Page
+    ![Wireframe contact desktop](assets/images/wireframe_contact_ipad.png) 
