@@ -3,7 +3,7 @@
 
 body {
     background-position: 0in;
-    font-family: 'Courier' sans-serif;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
     background-color: #ede4df8f;
     overflow: scroll;
     word-wrap: break-word;
