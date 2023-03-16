@@ -8,7 +8,7 @@ On this website user can find the history of a very popular musical instrument, 
 
 The site will be useful for people who want to get acquainted with the history of guitars and can also sign up  and provide their e -mail address to receive news letter. 
 
-![responsive]()
+![responsive](assets/images/responsive.png)
 
 # Table of content
 
