@@ -20,6 +20,8 @@ The site will be useful for people who want to get acquainted with the history o
 - [Design](#design)
     - [Wireframe](#wireframe)
     - [Colour Adobe](#colour-adobe)
+- [Testing](#testing)
+    - [validator testing](#validator-testing)
 
 # User Experience (UX)
 
@@ -156,3 +158,18 @@ The site will be useful for people who want to get acquainted with the history o
 ![colour adobe gallery](assets/images/colour_adobe_gallery.png)
 ![colour adobe timeline](assets/images/colour_adobe_timeline.png)
 ![colour adobe contact](assets/images/colour_adobe_contact.png)
+
+## Testing 
+
+## Validator Testing
+
+- HTML
+No errors were returned when passing through the official W3C validator
+
+![html testing](assets/images/html_testing.png)
+
+- CSS
+No errors were found when passing through the official (Jigsaw) validator
+
+![css testing](assets/images/css_testing.png)
+
