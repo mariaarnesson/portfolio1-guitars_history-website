@@ -1,6 +1,6 @@
 # Guitars history
 
-[View the live project here]()
+[View the live project here](https://mariaarnesson.github.io/portfolio1-guitars_history-website/)
 
 Guitars History Website is  a static front-end site to present useful information to users created for Portfolio Project 1 - HTML/CSS Essentials for Diploma in Full Stack Software Development at [Code Institute](https://codeinstitute.net/se/). 
 
