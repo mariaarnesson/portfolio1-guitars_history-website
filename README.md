@@ -195,3 +195,16 @@ No errors were found when passing through the official (Jigsaw) validator
 - [HTML](https://sv.wikipedia.org/wiki/HTML)
 - [CSS](https://en.wikipedia.org/wiki/CSS)
 
+# Credits
+
+## Content:
+- [Wikipedia](https://www.wikipedia.org/) - Information about history of guitars was taken from this site
+- [how-to-create-columns-in-html](https://www.educative.io/answers/) - Inspiration about html buidnings home page was taken from this site
+  
+
+
+
+## Media:
+
+- [Pexels](https://www.pexels.com/sv-se/) All the pictures in my project were downloaded from this site
+- [Font Awesome](https://fontawesome.com/icons/dumbbell?s=solid&f=classic) - The icons in the footer were taken from this site
