@@ -152,4 +152,7 @@ The site will be useful for people who want to get acquainted with the history o
 ## Colour Adobe
 
 ![colour home page part1](assets/images/colour_home_page1.png)
-![]
+![colour home page part2](assets/images/colour_adobe_home_page.png)
+![colour adobe gallery](assets/images/colour_adobe_gallery.png)
+![colour adobe timeline](assets/images/colour_adobe_timeline.png)
+![colour adobe contact](assets/images/colour_adobe_contact.png)
