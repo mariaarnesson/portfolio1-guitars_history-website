@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&family=PT+Sans+Narrow&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Courier+Prime:ital@1&family=PT+Sans+Narrow&display=swap');
 
 body {
     background-position: 0in;
@@ -42,6 +41,9 @@ h2 {
     font-family: 'Courier New', Courier, monospace, sans-serif;
     text-align: center;
     letter-spacing: 0px;
+}
+h3 {
+    font-family: 'Caveat';
 }
 
 #start {
