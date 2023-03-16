@@ -22,6 +22,7 @@ The site will be useful for people who want to get acquainted with the history o
     - [Colour Adobe](#colour-adobe)
 - [Testing](#testing)
     - [validator testing](#validator-testing)
+    - [Testing Lighthouse](#testing-lighthouse)
 
 # User Experience (UX)
 
@@ -173,3 +174,7 @@ No errors were found when passing through the official (Jigsaw) validator
 
 ![css testing](assets/images/css_testing.png)
 
+
+## Testing Lighthouse
+
+![lighthouse desktop](assets/images/lighthouse_desktop.png)
