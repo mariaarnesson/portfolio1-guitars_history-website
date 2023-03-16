@@ -135,7 +135,7 @@ The site will be useful for people who want to get acquainted with the history o
     ![Wireframe gallery desktop](assets/images/wireframes_gallery_iphone.png)
 
     - Timeline Page
-    ![Wireframe timeline desktop](assets/images/wireframe_timeline_ipad.png)
+    ![Wireframe timeline desktop](assets/images/wireframe_timeline_iphone.png)
 
     - Contact Page
-    ![Wireframe contact desktop](assets/images/wireframe_contact_ipad.png) 
+    ![Wireframe contact desktop](assets/images/wireframe_contact_iphone.png) 
