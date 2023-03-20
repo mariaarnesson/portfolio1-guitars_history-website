@@ -138,3 +138,14 @@ All steps are performed in browsers: Chrome, Edge and Firefox.
 2. Gallery Page Images
     - It has been confirmed that the main image on the site is clear and shows up after the page loads.
     - All pictures on the gallery page have been reviewed and verified to be the correct size and on correct place.      
+
+### Timeline Page
+
+1. Timeline Page Image
+    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+
+2. Timeline Page Text
+    - It has been confirmed that the title and text are correct and display correctly and on correctly place. 
+
+3. Timeline Page Circles 
+    - The circles are displayed in the correct place - in the middle between one and the other event text.    
