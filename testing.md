@@ -200,4 +200,15 @@ All steps have been entered and checked both in the Firefox browser on the table
     - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
     - All pictures on the gallery page on the mobile phone and tablet screen have been reviewed and verified to be the correct size and on correct place.      
 
+### Timeline Page
+
+1. Timeline Page Image
+    - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
+
+2. Timeline Page Text
+    - It has been confirmed that the title and text on the mobile phone and tablet screen is correct and display correctly and on correctly place. 
+
+3. Timeline Page Circles 
+    - The circles on the mobile phone and tablet screen are displayed in the right place - as the background of the event text.    
+
 
