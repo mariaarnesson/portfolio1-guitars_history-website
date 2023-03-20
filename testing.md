@@ -99,3 +99,19 @@ As a visitor to The history of guitars I expect/want/need:
 # Manual Testing
 
 Here is a detailed description of how manual testing is performed:    
+
+## Testing on desktop
+All steps are performed in browsers: Chrome, Edge and Firefox.
+
+### This has been verified on every page:
+- Navigation bar:
+    - Hover over each link has been made. The effect has been confirmed to be correct.
+    - The Home page link has been pressed and confirmed to take the user to the Home page.
+    - The Types of Guitars page link has been pressed and confirmed to take the user to the Types of guitars page.
+    - The Gallery page link has been pressed and confirmed to take the user to the Gallery page.
+    - The Timelines page link has been pressed and confirmed to take the user to the Timelines page.
+    - The Contact page link has been pressed and confirmed to take the user to the Contact page.
+
+- Footer:
+    - It has been verified that the footer is displayed as expected.
+    - After clicking on the icons: Facebook, Twitter, Instagram, Pinterest, it was confirmed that they open social media pages in separate browser tabs.
