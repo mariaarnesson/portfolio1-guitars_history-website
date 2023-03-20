@@ -163,3 +163,17 @@ All steps are performed in browsers: Chrome, Edge and Firefox.
     - It has been confirmed that if a user submits a form without filling out the required fields, a message is shown to complete them.
     - It has been confirmed that it shows a message with a valid e-mail address if the user enters a name other the e-mail address in the e-mail input field. 
     - it has been confirmed that after completing the form correctly and pressing submit, the user will go to the Thank you page.
+
+## Testing undertaken on tablet and phone devices
+
+All steps have been entered and checked both in the Firefox browser on the tablet and in the iPhone browser.
+### This has been verified on every page:
+- Navigation bar:
+    - It has been confirmed that on a small screen on a mobile phone the navigation bar is arranged in a list where the pages are stacked one below the other.
+    - It has been confirmed that on the tablet screen the navigation bar is placed in buttons next to each other.
+    - Links on the navigation bar has been pressed and confirmed to take the user to the correct page. 
+
+- Footer:
+    - It has been checked that on the tablet and mobile phone the footer is displayed as expected.
+    - After clicking on the icons: Facebook, Twitter, Instagram, Pinterest, it was confirmed that they open social media pages in separate browser tabs.
+
