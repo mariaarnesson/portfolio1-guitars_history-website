@@ -177,3 +177,12 @@ All steps have been entered and checked both in the Firefox browser on the table
     - It has been checked that on the tablet and mobile phone the footer is displayed as expected.
     - After clicking on the icons: Facebook, Twitter, Instagram, Pinterest, it was confirmed that they open social media pages in separate browser tabs.
 
+### Home Page
+
+1. Home Page Images
+    - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
+    - All pictures on the home page have been reviewed and verified to be the correct size.    
+
+2. Home Page Text
+    - It has been confirmed that the title and text on the mobile phone and tablet screen are correct and display correctly.        
+
