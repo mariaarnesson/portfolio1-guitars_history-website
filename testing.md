@@ -94,3 +94,8 @@ As a visitor to The history of guitars I expect/want/need:
     - the possibility of contacting the organization in order to provide feedback or ask questions is possible by pressing the contact button and contacting by phone using the number provided on this page.
 - As a returning user I want to check information about the history and date in case I have forgotten it. 
     - information about the history and date can be checked by pressing the timaline button and searching in the text provided on this page.
+
+
+# Manual Testing
+
+Here is a detailed description of how manual testing is performed:    
