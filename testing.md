@@ -13,11 +13,13 @@
 - [HTML Validator](https://validator.w3.org/#validate_by_input)
 
     - result for index.html
-    ![validator_index](assets/images/validator_html.png)
+        - ![validator_index](assets/images/validator_html.png)
+        - [Result index html](https://validator.w3.org/nu/#textarea)
     - result for types_of_guitars.html
-    ![validator_types](assets/images/validator_html.png)
+        - ![validator_types](assets/images/validator_html.png)
+        - [Result Types of guitars html](https://validator.w3.org/nu/#textarea)
     - result for gallery.html
-    ![validator_gallery](assets/images/validator_html.png)
+        - ![validator_gallery](assets/images/validator_html.png)
     - result for timeline.html
     ![validator_timeline](assets/images/validator_html.png)
     - result for contact.html
