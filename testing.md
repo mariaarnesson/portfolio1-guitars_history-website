@@ -63,3 +63,34 @@ As a visitor to The history of guitars I expect/want/need:
     - At the top is one image centered in a clear way so that the user can easily understand what the page is about.
     - Underneath there are several divs in them text and date. Every other one is on the left and every other one is on the right.
     - The date font is bold and in a different font than the rest of the text        
+
+
+## Testing User Experience (UX) stories 
+
+
+- As a new user I want to find information and learn more about the history.
+    - After loading the website, there is a clear navigation bar at the top of the page that allows the user to easily navigate to all the platform that exist on the page.
+    - Information about the history of guitars is easily to found on the main page and also on the Types of guitars page. 
+    - Additional information can be found by contacting the website author on the contact page.
+    - The user will find information and learn about the history of guitars by scrolling down or pressing another button in the navigation field
+- As a new user I want to easily understand the main purpose of the site.
+    - The main purpose of the site is visible on the first page where you can see a photo of a man with a guitar and text about guitars below. 
+    - No matter what page the new visitor lands on, they can easily find and use the navigation bar.
+- As a new user I want to be able to easily navigate the entire site to find content.
+    - Navigating the entire site to find content is possible by scrolling down.
+    - The user has access to five buttons in the navigation bar.
+
+- As a new user I want to be able to easily navigate to and see what types of guitars are available. 
+    - The ability to easily navigate and check what types of guitars are available is possible by pressing the types of guitar button
+- As a new user I want to be able to see images in the gallery. 
+    - the ability to view photos in the gallery is available by pressing the gallery button.
+- As a new user I want to be able to fill out the form to receive newsletters on my e-mail. 
+    - filling out the form to receive newsletters to my e-mail is possible by pressing the contact button.
+- As a returning user I want to be able to access and view the entire page quickly and easily. 
+    - quick and easy access to the entire site and browsing it is available on all pages and using the navigation bar can be done in a quick way.
+- As a returning user I want to be able to quickly and easily check what kinds of guitars exists. 
+    -  - The ability to easily navigate and check what types of guitars are available is possible by pressing the types of guitar button
+- As a returning user I want to be able to contact the organization to give feedback or ask questions. 
+    - the possibility of contacting the organization in order to provide feedback or ask questions is possible by pressing the contact button and contacting by phone using the number provided on this page.
+- As a returning user I want to check information about the history and date in case I have forgotten it. 
+    - information about the history and date can be checked by pressing the timaline button and searching in the text provided on this page.
