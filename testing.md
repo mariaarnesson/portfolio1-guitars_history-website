@@ -13,9 +13,9 @@
 - [HTML Validator](https://validator.w3.org/#validate_by_input)
 
     - result for index.html
-        - ![validator_index](assets/images/validator_html.png)
-        - [Result index html part 1](test/test_validator/result_validator_index_part1.png)
-          [Result index html part 2](test/test_validator/result_validator_index_part2.png)
+        ![validator_index](assets/images/validator_html.png)
+        [Result index html part 1](test/test_validator/result_validator_index_part1.png)
+        [Result index html part 2](test/test_validator/result_validator_index_part2.png)
     - result for types_of_guitars.html
         - ![validator_types](assets/images/validator_html.png)
         - [Result Types of guitars html](https://validator.w3.org/nu/#textarea)
