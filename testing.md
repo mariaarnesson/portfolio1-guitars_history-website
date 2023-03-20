@@ -186,3 +186,9 @@ All steps have been entered and checked both in the Firefox browser on the table
 2. Home Page Text
     - It has been confirmed that the title and text on the mobile phone and tablet screen are correct and display correctly.        
 
+### Types of guitars Page
+
+1. Text
+     - It has been confirmed that the title and text are correct and display correctly on the mobile phone and tablet screen
+
+
