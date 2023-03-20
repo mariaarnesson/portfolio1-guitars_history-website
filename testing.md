@@ -191,4 +191,13 @@ All steps have been entered and checked both in the Firefox browser on the table
 1. Text
      - It has been confirmed that the title and text are correct and display correctly on the mobile phone and tablet screen
 
+### Gallery Page
+
+1. Quote
+     - It has been confirmed that the quote is correct, in the right place and display correctly on the mobile phone and tablet screen.
+
+2. Gallery Page Images
+    - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
+    - All pictures on the gallery page on the mobile phone and tablet screen have been reviewed and verified to be the correct size and on correct place.      
+
 
