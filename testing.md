@@ -149,3 +149,17 @@ All steps are performed in browsers: Chrome, Edge and Firefox.
 
 3. Timeline Page Circles 
     - The circles are displayed in the correct place - in the middle between one and the other event text.    
+
+### Contact Page
+
+1. Contact Page Image next to the form
+    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+
+2. Contact Page Text
+    - It has been confirmed that the title and text are correct and display correctly and on correctly place.
+
+3. Contact Page Form
+    - It has been confirmed that the contact page form is laid out as expected.
+    - It has been confirmed that if a user submits a form without filling out the required fields, a message is shown to complete them.
+    - It has been confirmed that it shows a message with a valid e-mail address if the user enters a name other the e-mail address in the e-mail input field. 
+    - it has been confirmed that after completing the form correctly and pressing submit, the user will go to the Thank you page.
