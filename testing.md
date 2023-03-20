@@ -123,4 +123,18 @@ All steps are performed in browsers: Chrome, Edge and Firefox.
     - All pictures on the home page have been reviewed and verified to be the correct size.    
 
 2. Home Page Text
-    - It has been confirmed that the title and text are correct and display correctly.      
+    - It has been confirmed that the title and text are correct and display correctly.
+
+### Types of guitars Page
+
+1. Text
+     - It has been confirmed that the title and text are correct and display correctly.
+
+### Gallery Page
+
+1. Quote
+     - It has been confirmed that the quote is correct, in the right place and display correctly. 
+
+2. Gallery Page Images
+    - It has been confirmed that the main image on the site is clear and shows up after the page loads.
+    - All pictures on the gallery page have been reviewed and verified to be the correct size and on correct place.      
