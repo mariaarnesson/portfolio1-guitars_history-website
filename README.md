@@ -198,6 +198,15 @@ Testing information can be found in separate [testing.md](testing.md) file.
     - [Guitar- Home Page](https://images.pexels.com/photos/2444860/pexels-photo-2444860.jpeg?auto=compress&cs=tinysrgb&w=600)
     - [Guitar- Home Page](https://images.pexels.com/photos/54133/pexels-photo-54133.jpeg?auto=compress&cs=tinysrgb&w=600)
     - [Guitar- Home Page](https://images.pexels.com/photos/63694/pexels-photo-63694.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitarist- Gallery Page](https://images.pexels.com/photos/2444860/pexels-photo-2444860.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
+    - [Guitar- Gallery Page](https://images.pexels.com/photos/1407322/pexels-photo-1407322.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Gallery Page](https://images.pexels.com/photos/33597/guitar-classical-guitar-acoustic-guitar-electric-guitar.jpg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Gallery Page](https://images.pexels.com/photos/165971/pexels-photo-165971.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Gallery Page](https://images.pexels.com/photos/1205062/pexels-photo-1205062.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Gallery Page](https://images.pexels.com/photos/592751/pexels-photo-592751.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Gallery Page](https://images.pexels.com/photos/459797/pexels-photo-459797.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Gallery Page](https://images.pexels.com/photos/159266/guitar-electric-guitar-les-paul-epiphone-159266.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Gallery Page](https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 
 - [Pexels](https://www.pexels.com/sv-se/) All pictures in my project were downloaded from this site
