@@ -34,6 +34,8 @@
         - [Result Contact html part1](test/test_validator/result_validator_contact.png)
         - [Result Contact html part2](test/test_validator/result_validator_contact_part2.png)
 
+
+- [CSS Validator - result](assets/images/css_validator.png)
 ## Testing Lighthouse
 
 ![lighthouse desktop](assets/images/lighthouse_desktop.png)  

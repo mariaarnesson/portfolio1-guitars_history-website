@@ -279,7 +279,7 @@ input[type="email"] {
 #the-message {
     width: 15em;
     height: 18em;
-    border-style: solid 1px;
+    border: 1px solid gray;
 }
 input[type="submit"] {
                 margin-bottom: 28px;
