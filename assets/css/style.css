@@ -299,6 +299,13 @@ input[type="submit"]:focus {
                       background-color: #f44336;
                       transition: 0.2s ease;
 }
+
+/* Thank you page */
+
+.thank_you {
+    background-color: white;
+    width: 100%;
+}
 /* Media queries */
 /* For larger to medium screen size from 1200px wide and down */
 @media screen and (max-width: 1200px) {
