@@ -162,22 +162,7 @@ The site will be useful for people who want to get acquainted with the history o
 
 ## Testing 
 
-## Validator Testing
-
-- HTML
-No errors were returned when passing through the official W3C validator
-
-![html testing](assets/images/html_testing.png)
-
-- CSS
-No errors were found when passing through the official (Jigsaw) validator
-
-![css testing](assets/images/css_testing.png)
-
-
-## Testing Lighthouse
-
-![lighthouse desktop](assets/images/lighthouse_desktop.png)
+Testing information can be found in separate [testing.md](testing.md) file. 
 
 # Deployment:
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
