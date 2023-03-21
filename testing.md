@@ -67,7 +67,7 @@ Here is a detailed description of how manual testing is performed:
 - As a returning user I want to be able to access and view the entire page quickly and easily. 
     - quick and easy access to the entire site and browsing it is available on all pages and using the navigation bar can be done in a quick way.
 - As a returning user I want to be able to quickly and easily check what kinds of guitars exists. 
-    -  - The ability to easily navigate and check what types of guitars are available is possible by pressing the types of guitar button
+    - The ability to easily navigate and check what types of guitars are available is possible by pressing the types of guitar button
 - As a returning user I want to be able to contact the organization to give feedback or ask questions. 
     - the possibility of contacting the organization in order to provide feedback or ask questions is possible by pressing the contact button and contacting by phone using the number provided on this page.
 - As a returning user I want to check information about the history and date in case I have forgotten it. 
@@ -75,7 +75,10 @@ Here is a detailed description of how manual testing is performed:
    
 
 ## Testing on desktop
-All steps are performed in browsers: Chrome, Edge and Firefox.
+All steps are performed in browsers:
+ - Chrome - Version 111.0.5563.65 (Officiell version) (64 bitar)
+ - Microsoft Edge - Version 111.0.1661.44 (Officiell version) (64 bitar)
+ - Firefox - 111.0 (64-bitars)
 
 ### This has been verified on every page:
 - Navigation bar:
