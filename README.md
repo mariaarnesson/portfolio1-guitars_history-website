@@ -210,7 +210,7 @@ Testing information can be found in separate [testing.md](testing.md) file.
     - [Guitar photographed from below- Gallery Page](https://images.pexels.com/photos/159266/guitar-electric-guitar-les-paul-epiphone-159266.jpeg?auto=compress&cs=tinysrgb&w=600)
     - [Electric guitar- Gallery Page](https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=600)
     - [Timeline- Timeline Page](https://images.pexels.com/photos/11082253/pexels-photo-11082253.jpeg?auto=compress&cs=tinysrgb&w=600)
-    - [Guitar- Contact Page](https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar in maroon color- Contact Page](https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 ## Designe
 -  [Designe Website](https://www.typewolf.com/site-of-the-day/third-west-studio) - This website was the inspiration for my project. The background was used in a similar shade of color and the "hr" element was used in some places to divide the page.

@@ -34,36 +34,14 @@
         - [Result Contact html part1](test/test_validator/result_validator_contact.png)
         - [Result Contact html part2](test/test_validator/result_validator_contact_part2.png)
 
-# Visitor Stories
+## Testing Lighthouse
 
-As a visitor to The history of guitars I expect/want/need:
+![lighthouse desktop](assets/images/lighthouse_desktop.png)  
 
-- The position structure and purpose of a navigation bar:
-    - A navigation bar is placed at the top of the website.
-    - The navbar shows the user appropriate links
 
-- The position structure and purpose of a footer:
-    - Social media links are provided in the footer.
+# Manual Testing
 
-- The position structure and purpose of a Home Page:
-    - On the Home Page there is a main picture and two sections. 
-    - The first section contains the introductory text and the second section contains four pictures. 
-    - The font is adapted to be legible and visible to users. 
-    - Text and pictures are centered to make the structure easy to read.
-
-- The position structure and purpose of a Types of guitars Page:
-    - On this page there is one section with four divs where each of the divs describes each type of guitar. 
-    - The text is centered and the font is clear and readable for the user.
-
-- The position structure and purpose of a Gallery Page:
-    - At the top of the page is a photo of the guitarist and a quote where the guitarist talks about playing the guitar.
-    - Below is one section with a series of different pictures of guitars.  
-
-- The position structure and purpose of a Timeline Page:
-    - At the top is one image centered in a clear way so that the user can easily understand what the page is about.
-    - Underneath there are several divs in them text and date. Every other one is on the left and every other one is on the right.
-    - The date font is bold and in a different font than the rest of the text        
-
+Here is a detailed description of how manual testing is performed: 
 
 ## Testing User Experience (UX) stories 
 
@@ -94,11 +72,7 @@ As a visitor to The history of guitars I expect/want/need:
     - the possibility of contacting the organization in order to provide feedback or ask questions is possible by pressing the contact button and contacting by phone using the number provided on this page.
 - As a returning user I want to check information about the history and date in case I have forgotten it. 
     - information about the history and date can be checked by pressing the timaline button and searching in the text provided on this page.
-
-
-# Manual Testing
-
-Here is a detailed description of how manual testing is performed:    
+   
 
 ## Testing on desktop
 All steps are performed in browsers: Chrome, Edge and Firefox.
@@ -227,6 +201,4 @@ All steps have been entered and checked both in the Firefox browser on the table
     - it has been confirmed that after completing the form correctly and pressing submit, the user will go to the Thank you page.
 
 
-## Testing Lighthouse
-
-![lighthouse desktop](assets/images/lighthouse_desktop.png)    
+  
