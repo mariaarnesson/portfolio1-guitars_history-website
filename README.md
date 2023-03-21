@@ -188,8 +188,9 @@ Testing information can be found in separate [testing.md](testing.md) file.
     -  [Britannica](https://www.britannica.com/art/guitar)
     -  [Stage Music Center](https://stagemusiccenter.com/)
 
+## Code:
+- Code on how to create column in html was taken from this site: [Create columns in html](https://www.educative.io/answers/)
 
-- [how-to-create-columns-in-html](https://www.educative.io/answers/) - Inspiration about html buidnings home page was taken from this site
   
 
 
