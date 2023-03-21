@@ -212,3 +212,16 @@ All steps have been entered and checked both in the Firefox browser on the table
     - The circles on the mobile phone and tablet screen are displayed in the right place - as the background of the event text.    
 
 
+### Contact Page
+
+1. Contact Page Image next to the form
+    - It has been confirmed that the main image on the mobile phone and tablet screen is clear and shows up after the page loads.
+
+2. Contact Page Text
+    - It has been confirmed that the title and text on the mobile phone and tablet screen is correct and display correctly and on correctly place.
+
+3. Contact Page Form
+    - It has been confirmed that the contact page form is laid out as expected.
+    - It has been confirmed that if a user submits a form without filling out the required fields, a message is shown to complete them.
+    - It has been confirmed that it shows a message with a valid e-mail address if the user enters a name other the e-mail address in the e-mail input field. 
+    - it has been confirmed that after completing the form correctly and pressing submit, the user will go to the Thank you page.
