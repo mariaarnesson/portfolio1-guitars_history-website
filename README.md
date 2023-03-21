@@ -183,7 +183,12 @@ Testing information can be found in separate [testing.md](testing.md) file.
 # Credits
 
 ## Content:
-- [Wikipedia](https://www.wikipedia.org/) - Information about history of guitars was taken from this site
+- Information about history of guitars was taken from these websites:
+    -  [Wikipedia](https://en.wikipedia.org/wiki/Musical_instrument)
+    -  [Britannica](https://www.britannica.com/art/guitar)
+    -  [Stage Music Center](https://stagemusiccenter.com/)
+
+
 - [how-to-create-columns-in-html](https://www.educative.io/answers/) - Inspiration about html buidnings home page was taken from this site
   
 
