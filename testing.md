@@ -225,3 +225,8 @@ All steps have been entered and checked both in the Firefox browser on the table
     - It has been confirmed that if a user submits a form without filling out the required fields, a message is shown to complete them.
     - It has been confirmed that it shows a message with a valid e-mail address if the user enters a name other the e-mail address in the e-mail input field. 
     - it has been confirmed that after completing the form correctly and pressing submit, the user will go to the Thank you page.
+
+
+## Testing Lighthouse
+
+![lighthouse desktop](assets/images/lighthouse_desktop.png)    
