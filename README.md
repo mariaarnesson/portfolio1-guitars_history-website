@@ -195,11 +195,11 @@ Testing information can be found in separate [testing.md](testing.md) file.
 
 ## Media:
 - All pictures in my project were downloaded from [Pexels](https://www.pexels.com/sv-se/) :
-    - [the main home page photo](https://images.pexels.com/photos/1183095/pexels-photo-1183095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
-    - [Guitar- Home Page](https://images.pexels.com/photos/1010518/pexels-photo-1010518.jpeg?auto=compress&cs=tinysrgb&w=600)
-    - [Guitar- Home Page](https://images.pexels.com/photos/2444860/pexels-photo-2444860.jpeg?auto=compress&cs=tinysrgb&w=600)
-    - [Guitar- Home Page](https://images.pexels.com/photos/54133/pexels-photo-54133.jpeg?auto=compress&cs=tinysrgb&w=600)
-    - [Guitar- Home Page](https://images.pexels.com/photos/63694/pexels-photo-63694.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [The main home page photo](https://images.pexels.com/photos/1183095/pexels-photo-1183095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+    - [Guitar strings- Home Page](https://images.pexels.com/photos/1010518/pexels-photo-1010518.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Playing the guitar- Home Page](https://images.pexels.com/photos/2444860/pexels-photo-2444860.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar in a horizontal position- Home Page](https://images.pexels.com/photos/54133/pexels-photo-54133.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar in an upright position- Home Page](https://images.pexels.com/photos/63694/pexels-photo-63694.jpeg?auto=compress&cs=tinysrgb&w=600)
     - [Guitarist- Gallery Page](https://images.pexels.com/photos/2444860/pexels-photo-2444860.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
     - [Guitar- Gallery Page](https://images.pexels.com/photos/1407322/pexels-photo-1407322.jpeg?auto=compress&cs=tinysrgb&w=600)
     - [Guitar- Gallery Page](https://images.pexels.com/photos/33597/guitar-classical-guitar-acoustic-guitar-electric-guitar.jpg?auto=compress&cs=tinysrgb&w=600)
@@ -213,9 +213,6 @@ Testing information can be found in separate [testing.md](testing.md) file.
     - [Guitar- Contact Page](https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 ## Designe
--  [Designe Website](https://www.typewolf.com/site-of-the-day/third-west-studio) - This website was the inspiration for my project. The background was used in a similar shade of color and the <hr> element was used in some places to divide the page.
+-  [Designe Website](https://www.typewolf.com/site-of-the-day/third-west-studio) - This website was the inspiration for my project. The background was used in a similar shade of color and the "hr" element was used in some places to divide the page.
 
-
-
-- [Pexels](https://www.pexels.com/sv-se/) All pictures in my project were downloaded from this site
 - [Font Awesome](https://fontawesome.com/icons/dumbbell?s=solid&f=classic) - The icons in the footer were taken from this site
