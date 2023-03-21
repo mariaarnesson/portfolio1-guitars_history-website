@@ -191,11 +191,14 @@ Testing information can be found in separate [testing.md](testing.md) file.
 ## Code:
 - Code on how to create column in html was taken from this site: [Create columns in html](https://www.educative.io/answers/)
 
-  
-
-
-
 ## Media:
+- All pictures in my project were downloaded from [Pexels](https://www.pexels.com/sv-se/) :
+    - [the main home page photo](https://images.pexels.com/photos/1183095/pexels-photo-1183095.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+    - [Guitar- Home Page](https://images.pexels.com/photos/1010518/pexels-photo-1010518.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Home Page](https://images.pexels.com/photos/2444860/pexels-photo-2444860.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Home Page](https://images.pexels.com/photos/54133/pexels-photo-54133.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Home Page](https://images.pexels.com/photos/63694/pexels-photo-63694.jpeg?auto=compress&cs=tinysrgb&w=600)
 
-- [Pexels](https://www.pexels.com/sv-se/) All the pictures in my project were downloaded from this site
+
+- [Pexels](https://www.pexels.com/sv-se/) All pictures in my project were downloaded from this site
 - [Font Awesome](https://fontawesome.com/icons/dumbbell?s=solid&f=classic) - The icons in the footer were taken from this site
