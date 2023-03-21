@@ -162,7 +162,11 @@ The background color is chosen in a light color to make the contrast between tex
 ![colour adobe timeline](assets/images/colour_adobe_timeline.png)
 ![colour adobe contact](assets/images/colour_adobe_contact.png)
 
-## Testing 
+## Typography
+
+- Google Fonts were used to import Caveat, Courier and Sans fonts into styles.css. De valdes för att "Caveat" passar bra med citatet och "Courier New" och "Sans" passar bra ihop och matchar texten på historiksidan.
+
+# Testing 
 
 Testing information can be found in separate [testing.md](testing.md) file. 
 
