@@ -154,6 +154,8 @@ The site will be useful for people who want to get acquainted with the history o
 
 ## Colour Adobe
 
+The background color is chosen in a light color to make the contrast between text, photos and background clearly visible.
+
 ![colour home page part1](assets/images/colour_home_page1.png)
 ![colour home page part2](assets/images/colour_adobe_home_page.png)
 ![colour adobe gallery](assets/images/colour_adobe_gallery.png)
@@ -207,6 +209,12 @@ Testing information can be found in separate [testing.md](testing.md) file.
     - [Guitar- Gallery Page](https://images.pexels.com/photos/459797/pexels-photo-459797.jpeg?auto=compress&cs=tinysrgb&w=600)
     - [Guitar- Gallery Page](https://images.pexels.com/photos/159266/guitar-electric-guitar-les-paul-epiphone-159266.jpeg?auto=compress&cs=tinysrgb&w=600)
     - [Guitar- Gallery Page](https://images.pexels.com/photos/210779/pexels-photo-210779.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Timeline- Timeline Page](https://images.pexels.com/photos/11082253/pexels-photo-11082253.jpeg?auto=compress&cs=tinysrgb&w=600)
+    - [Guitar- Contact Page](https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600)
+
+## Designe
+-  [Designe Website](https://www.typewolf.com/site-of-the-day/third-west-studio) - This website was the inspiration for my project. The background was used in a similar shade of color and the <hr> element was used in some places to divide the page.
+
 
 
 - [Pexels](https://www.pexels.com/sv-se/) All pictures in my project were downloaded from this site
