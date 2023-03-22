@@ -235,7 +235,9 @@ margin: 150px;
     margin-left: 135px;
     margin-right: 135px;
 }
-
+.send-box {
+    width: 500px;
+}
 form {
     margin: 350px;
     width: 36em;
