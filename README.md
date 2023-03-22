@@ -164,7 +164,7 @@ The background color is chosen in a light color to make the contrast between tex
 
 ## Typography
 
-- Google Fonts were used to import Caveat, Courier and Sans fonts into styles.css. De valdes för att "Caveat" passar bra med citatet och "Courier New" och "Sans" passar bra ihop och matchar texten på historiksidan.
+- Google Fonts were used to import Caveat, Courier and Sans fonts into styles.css. They were chosen because "Caveat" goes well with the quote and "Courier New" and "Sans" go well together and match the text on the history page.
 
 # Testing 
 
