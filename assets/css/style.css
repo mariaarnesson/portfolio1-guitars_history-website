@@ -74,7 +74,9 @@ h3 {
  margin: 135px;
  display: block;
 }
-
+.column {
+    display: block;
+}
 /* social networks */
 
 footer {
