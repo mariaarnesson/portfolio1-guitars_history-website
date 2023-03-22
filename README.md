@@ -21,8 +21,19 @@ The site will be useful for people who want to get acquainted with the history o
     - [Wireframe](#wireframe)
     - [Colour Adobe](#colour-adobe)
 - [Testing](#testing)
-    - [validator testing](#validator-testing)
-    - [Testing Lighthouse](#testing-lighthouse)
+- [Typgraphy](##Typography)   
+- [Deployment](#Deployment)
+- [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+- [Credits](#Credits)
+    - [Content](##Content)
+    - [Code](##Code)
+    - [Media](##Media)
+    - [Designe](##Designe)
+    - [Testing.md example](#tesingmd-example)
+- [Acknowledgements](#acknowledgements)    
+
 
 # User Experience (UX)
 
