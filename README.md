@@ -98,9 +98,9 @@ The site will be useful for people who want to get acquainted with the history o
     - On the contact page, the user has the opportunity to fill out a form to leave a comment on the site and to consent to the sending of information by e-mail.
     ![contact](assets/images/contact.png)
 
-## Features Left to Implement
-- video supporting the facts
-
+## Features which could be implemented in the future:
+- video supporting the facts:
+    - By adding a video about the history of guitars, the user could learn more about guitars and listen to guitar playing.
 
 # Design
 ## Wireframe: 
