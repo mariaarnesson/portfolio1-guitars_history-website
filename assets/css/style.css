@@ -236,68 +236,30 @@ margin: 150px;
     margin-right: 135px;
 }
 
-.login-box {
-    position: relative;
-    margin: 5% auto;
-    height: 704px;
-    width: 599px;
-    background-image: url(https://images.pexels.com/photos/376452/pexels-photo-376452.jpeg?auto=compress&cs=tinysrgb&w=600);
-    background-repeat: no-repeat;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
-    margin-left: 320px;
-    background-color: white;
+form {
+    margin: 350px;
+    width: 36em;
+    height: 12em;
 }
-.left-box {
-     position: absolute;
-     margin-top: 0;
-     margin-left: 0;
-     box-sizing: border-box;
-     padding: 40px;
-     width: 300px;
-     height: 400px;
+label {
+    display: block;
+    padding-bottom: 10px;
+}    
+input, textarea {
+    border-radius: 2px;
+    border: 2px solid #777;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
 }
-h1 {
-margin: 0 0 20px 0;
-font-weight: 300;
-font-size: 28px;
+.column {
+    display: table-caption;
 }
-input[type="text"],
-input[type="email"] {
-                  display: block;
-                  box-sizing: border-box;
-                  margin-bottom: 20px;
-                  padding: 4px;
-                  width: 220px;
-                  height: 32px;
-                  border: none;
-                  outline: none;
-                  border-bottom: 1px solid #aaa;
-                  font-family: sans-serif;
-                  font-weight: 400;
-                  font-size: 15px;
-}
-#the-message {
-    width: 15em;
-    height: 18em;
-    border: 1px solid gray;
-}
-input[type="submit"] {
-                margin-bottom: 28px;
-                width: 120px;
-                height: 32px;
-                background-color: #f44336;
-                border: none;
-                border-radius: 2px;
-                color: #fff;
-                font-family: sans-serif;
-                font-weight: 500;
-                text-transform: uppercase;
-                cursor: pointer;
-}
-input[type="submit"]:hover,
-input[type="submit"]:focus {
-                      background-color: #f44336;
-                      transition: 0.2s ease;
+.group {
+    margin-top: 3em;
+}   
+textarea {
+    height: 250px;
 }
 
 /* Thank you page */
