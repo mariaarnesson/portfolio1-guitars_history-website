@@ -120,37 +120,46 @@ The site will be useful for people who want to get acquainted with the history o
     - Contact Page
     ![Wireframe contact desktop](assets/images/wireframe_contact_desktop.png)
 
+    - Thank You Page
+    ![Wireframe thank you desktop](assets/images/wireframe_thankyou_desktop.png)
+
 - Wireframe iPad
     - Home Page
-    ![Wireframe home page desktop](assets/images/wireframe_home_ipad.png)
+    ![Wireframe home page ipad](assets/images/wireframe_home_ipad.png)
 
     - Types of Guitars
-    ![Wireframe types desktop](assets/images/wireframe_type_ipad.png)
+    ![Wireframe types ipad](assets/images/wireframe_type_ipad.png)
 
     - Gallery Page
-    ![Wireframe gallery desktop](assets/images/wireframe_contact_ipad.png)
+    ![Wireframe gallery ipad](assets/images/wireframe_contact_ipad.png)
 
     - Timeline Page
-    ![Wireframe timeline desktop](assets/images/wireframe_timeline_ipad.png)
+    ![Wireframe timeline ipad](assets/images/wireframe_timeline_ipad.png)
 
     - Contact Page
-    ![Wireframe contact desktop](assets/images/wireframe_contact_ipad.png)
+    ![Wireframe contact ipad](assets/images/wireframe_contact_ipad.png)
+
+    - Thank You Page
+    ![Wireframe thank you ipad](assets/images/wireframe_thank_you_ipad.png)
 
 - Wireframe iPhone   
 
-   ![Wireframe home page desktop](assets/images/wireframe_home_iphone.png)
+   ![Wireframe home page iphone](assets/images/wireframe_home_iphone.png)
 
     - Types of Guitars
-    ![Wireframe types desktop](assets/images/wireframe_types_iphone.png)
+    ![Wireframe types iphone](assets/images/wireframe_types_iphone.png)
 
     - Gallery Page
-    ![Wireframe gallery desktop](assets/images/wireframes_gallery_iphone.png)
+    ![Wireframe gallery iphone](assets/images/wireframes_gallery_iphone.png)
 
     - Timeline Page
-    ![Wireframe timeline desktop](assets/images/wireframe_timeline_iphone.png)
+    ![Wireframe timeline iphone](assets/images/wireframe_timeline_iphone.png)
 
     - Contact Page
-    ![Wireframe contact desktop](assets/images/wireframe_contact_iphone.png) 
+    ![Wireframe contact iphone](assets/images/wireframe_contact_iphone.png) 
+
+    - Thank you Page
+    ![Wireframe thank you iphone](assets/images/wireframe_thank_you_iphone.png)
 
 ## Colour Adobe
 
