@@ -342,6 +342,11 @@ textarea {
     #comment {
              padding: 50px;
     }
+    form {
+        height: 50em;
+        margin: 232px;
+        width: 39em;
+    }
 }
 @media screen and (max-width: 600px) {
     body {
@@ -379,7 +384,7 @@ textarea {
         }
        
     #box {
-        margin: 73px;
+        margin: 40px;
         width: 200px;
     }
     #types_of_guitar {
@@ -392,7 +397,7 @@ textarea {
                     margin: 0px;
     }
     .classical-guitar {
-                   margin: 40px;
+                   margin: 0px;
     }
     .jazz-guitar {
                   margin: 0px;
@@ -421,6 +426,16 @@ textarea {
     .technically {
             margin-top: 300px;
             margin-right: 60px;
+     }
+     .send-box {
+        margin: -11em;
+        height: 61em;
+        margin-top: -14em;
+     }
+     form {
+        height: 50em;
+        margin: 232px;
+        width: 15em;
      }
 }
 /* For small screen sizes below 320px width */
