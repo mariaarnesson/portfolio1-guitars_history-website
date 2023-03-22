@@ -36,7 +36,7 @@
 
 
 
-- [CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+- [CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - [CSS Validator - result](assets/images/css_validator.png)
     - [result- part1](test/test_validator/result_validator_css_part1.png)
     - [result- part2](test/test_validator/result_validator_css_part2.png)
