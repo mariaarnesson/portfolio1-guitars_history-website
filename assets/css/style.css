@@ -236,7 +236,9 @@ margin: 150px;
     margin-right: 135px;
 }
 .send-box {
-    width: 500px;
+    margin: 350px;
+    width: 36em;
+    height: 12em;
 }
 form {
     margin: 350px;
@@ -358,12 +360,13 @@ textarea {
              width: fit-content;
              height: 150px;
       }
-      #welcome {
+    #welcome {
             margin: 0px;
             width: 100%;
         }
-     .first-pic {
+    .first-pic {
             float: none;
+            margin-top: 3em;
             margin-right: 40px;
             margin-left: 35px;
             width: 250px;
