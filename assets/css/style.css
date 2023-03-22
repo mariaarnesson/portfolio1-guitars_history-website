@@ -236,12 +236,13 @@ margin: 150px;
     margin-right: 135px;
 }
 .send-box {
-    margin: 350px;
-    width: 36em;
-    height: 12em;
+    margin: 10em;
+    width: 57em;
+    height: 51em;
+    margin-top: -6em;
 }
 form {
-    margin: 350px;
+    margin: 182px;
     width: 36em;
     height: 12em;
 }
