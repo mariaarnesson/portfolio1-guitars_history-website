@@ -395,10 +395,6 @@ textarea {
             text-align: justify;
             margin: 5px;
         }
-    .login-box {
-               width: 300px;
-               height: 300px;
-    }
     .picture_2 {
             margin-left: 52px;
             float: none;
@@ -509,10 +505,6 @@ textarea {
    }
     #comment {
          margin: 0px;
-    }
-    .login-box {
-          width: 270px;
-          height: 300px;
     }
     #social-networks i {
                  font-size: 100%;
