@@ -35,7 +35,21 @@
         - [Result Contact html part2](test/test_validator/result_validator_contact_part2.png)
 
 
-- [CSS Validator - result](assets/images/css_validator.png)
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+    - [CSS Validator - result](assets/images/css_validator.png)
+    - [result- part1](test/test_validator/result_validator_css_part1.png)
+    - [result- part2](test/test_validator/result_validator_css_part2.png)
+    - [result- part3](test/test_validator/result_validator_css_part3.png)
+    - [result- part4](test/test_validator/result_validator_css_part4.png)
+    - [result- part5](test/test_validator/result_validator_css_part5.png)
+    - [result- part6](test/test_validator/result_validator_css_part6.png)
+    - [result- part7](test/test_validator/result_validator_css_part7.png)
+    - [result- part8](test/test_validator/result_validator_css_part8.png)
+    - [result- part9](test/test_validator/result_validator_css_part9.png)
+    - [result- part10](test/test_validator/result_validator_css_part10.png)
+    - [result- part11](test/test_validator/result_validator_css_part11.png)
+
 ## Testing Lighthouse
 
 ![lighthouse desktop](assets/images/lighthouse_desktop.png)  
