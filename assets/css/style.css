@@ -284,6 +284,10 @@ textarea {
     #box {
          margin-left: 98px;
     }
+    .guitar-homepage {
+        width: 300px;
+        height: 300px;
+    }
     #quotes {
             margin-top: -300px;
     }
