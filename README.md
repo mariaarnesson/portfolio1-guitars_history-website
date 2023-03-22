@@ -236,7 +236,10 @@ Testing information can be found in separate [testing.md](testing.md) file.
 ## Designe
 -  [Designe Website](https://www.typewolf.com/site-of-the-day/third-west-studio) - This website was the inspiration for my project. The background was used in a similar shade of color and the "hr" element was used in some places to divide the page.
 
-- [Font Awesome](https://fontawesome.com/icons/dumbbell?s=solid&f=classic) - The icons in the footer were taken from this site
+## Tesing.md example
+
+- [TESTING.md- example](https://github.com/AJGreaves/familyhub/blob/master/testing.md)- This testing.md file was a good example for me to know how to write my own.
+
 
 # Acknowledgements
 - Thank you my mentor for useful feedback and guidance in my project.
