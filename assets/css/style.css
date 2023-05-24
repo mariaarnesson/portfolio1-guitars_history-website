@@ -260,8 +260,9 @@ input, textarea {
     padding: 10px;
 }
 .column {
-    display: table-caption;
+    display: block
 }
+
 .group {
     margin-top: 3em;
 }   
@@ -287,9 +288,12 @@ textarea {
          margin-left: 98px;
     }
     .guitar-homepage {
-        width: 357px;
-        height: 209px;
+        margin: 7px;
+        margin-left: 12px;
+        width: 350px;
+        height: 250px;
     }
+
     #quotes {
             margin-top: -300px;
     }
