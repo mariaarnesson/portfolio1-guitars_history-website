@@ -427,8 +427,8 @@ textarea {
             float: none;
     }
     img {
-        width: 200px;
-        height: 100px;
+        width: 100%;
+        height: 100%;
         border: 2px solid;
     }
     #gallery {
