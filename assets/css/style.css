@@ -396,7 +396,7 @@ textarea {
         }
        
     #box {
-        margin: 40px;
+        margin-left: -10%;
         width: 200px;
     }
     #types_of_guitar {
