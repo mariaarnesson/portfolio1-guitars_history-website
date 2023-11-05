@@ -163,7 +163,13 @@ margin: 150px;
         margin-right: 150px;
         text-align: right;
 }
-
+#quotes {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; /* Centrera innehållet vertikalt */
+    gap: 20px; /* Avstånd mellan citat och bild */
+    margin: 20px 0;
+}
 .picture_2 {
     flex: 1; /* Dela utrymmet jämnt mellan citat och bild */
     text-align: center; /* Centrera bilden horisontellt */
