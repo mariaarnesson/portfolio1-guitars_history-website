@@ -364,9 +364,10 @@ textarea {
               margin-left: 160px;
     }
     #gallery {
-             margin-left: 200px;
-             margin-right: 135px;
-             display: inline-block;
+        flex-direction: column; /* Ändra layout till en kolumn */
+    }
+    .image {
+        flex: 0 0 100%; /* Hela bredden för bilder på mindre skärmar */
     }
     
     
