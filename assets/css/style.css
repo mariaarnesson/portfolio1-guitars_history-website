@@ -352,22 +352,16 @@ textarea {
         margin: 188px;
         display: block;
     }
-    img {
-        margin-left: 16%;
-        width: 100%;
-        height: 100%;
-        border: 2px solid;
-        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
-    }
+    
     #timeline {
               margin-bottom: 50px;
               margin-left: 160px;
     }
     #gallery {
-        flex-direction: column; /* Ändra layout till en kolumn */
+        flex-direction: column; 
     }
     .image {
-        flex: 0 0 100%; /* Hela bredden för bilder på mindre skärmar */
+        flex: 0 0 100%; 
     }
     
     
