@@ -163,12 +163,15 @@ margin: 150px;
         margin-right: 150px;
         text-align: right;
 }
+
 .picture_2 {
-      float: right;
-      max-width: 600px;
-      margin-bottom: 100px;
-      margin-top: 100px;
-      margin-left: 150px;
+    flex: 1; /* Dela utrymmet jämnt mellan citat och bild */
+    text-align: center; /* Centrera bilden horisontellt */
+}
+
+.picture_2 img {
+    max-width: 100%;
+    height: auto;
 }
 /* timeline */
 #timeline {
