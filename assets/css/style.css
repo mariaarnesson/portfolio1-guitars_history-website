@@ -146,6 +146,10 @@ margin: 150px;
     max-width: 800px; 
     margin: 0 auto;
 }
+.image {
+    flex: 0 0 calc(33.33% - 20px);
+    margin: 10px;
+}
 .technically {
         float: right;
         max-width: 600px;
