@@ -139,8 +139,12 @@ margin: 150px;
 /* gallery */
 
 #gallery {
-    margin-left: 135px;
-    margin-right: 135px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; 
+    max-width: 800px; 
+    margin: 0 auto;
 }
 .technically {
         float: right;
