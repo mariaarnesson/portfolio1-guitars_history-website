@@ -327,10 +327,7 @@ textarea {
     #quotes {
             margin-top: -300px;
     }
-    img {
-        height: 100%;
-        width: 100%;
-    }
+   
 }
 /* For medium screen sizes from 800px wide and down */
 @media screen and (max-width: 800px) {
@@ -373,9 +370,7 @@ textarea {
               margin-bottom: 50px;
               margin-left: 160px;
     }
-    #gallery {
-        flex-direction: column; 
-    }
+    
     .image {
         flex: 0 0 100%; 
     }
@@ -456,15 +451,7 @@ textarea {
             margin-left: 52px;
             float: none;
     }
-    img {
-        width: 100%;
-        height: 100%;
-        border: 2px solid;
-    }
-    #gallery {
-            display: inline-block;
-            margin: 50px;
-    }  
+    
     .technically {
             margin-top: 300px;
             margin-right: 60px;
@@ -550,15 +537,7 @@ textarea {
           margin: 30px;
           width: 200px;
     }
-    #gallery {
-        margin: 30px;
-        width: 200px;
-    }
-    img {
-        height: 100%;
-        width: 100%;
-        border: 2px solid; 
-   }
+    
    .pic {
        margin: 0;
        width: 200px;
