@@ -404,11 +404,9 @@ textarea {
     .first-pic {
             float: none;
             margin-top: 3em;
-            margin-right: 40px;
-            margin-left: 31%;
-            width: 250px;
+            width: 117%;
             height: 150px;
-        }
+    }
        
     #box {
         margin-left: -10%;
