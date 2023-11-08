@@ -170,15 +170,6 @@ margin: 150px;
     gap: 20px; /* Avstånd mellan citat och bild */
     margin: 20px 0;
 }
-.picture_2 {
-    flex: 1; /* Dela utrymmet jämnt mellan citat och bild */
-    text-align: center; /* Centrera bilden horisontellt */
-}
-
-.picture_2 img {
-    max-width: 100%;
-    height: auto;
-}
 /* timeline */
 #timeline {
     margin-left: 400px;
