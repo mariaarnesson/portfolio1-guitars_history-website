@@ -548,3 +548,18 @@ textarea {
         width: 11em;
     }
 }
+/* For small screen sizes below 290px width */
+@media screen and (max-width: 290px) {
+    .first-pic {
+        margin-top: 0em;
+        margin-left: 61px;
+        width: 21em;
+    }
+
+    .guitar-homepage {
+        margin: 7px;
+        margin-left: -3px;
+        width: 100%;
+        height: 100%;
+    }
+}
